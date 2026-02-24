@@ -1,5 +1,5 @@
 [project]
-name = "dbt-snowflake-project"
+name = "aws_dbt_snow_project"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"

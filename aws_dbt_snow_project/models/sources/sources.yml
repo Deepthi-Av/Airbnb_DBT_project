@@ -1,0 +1,13 @@
+version: 2
+
+
+sources:
+  - name: staging
+    database: AIRBNB_DUMP
+    schema: staging  
+    tables:
+      - name: listings
+      - name: bookings
+      - name: hosts
+
+      

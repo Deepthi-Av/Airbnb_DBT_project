@@ -1,0 +1,7 @@
+{
+    "editor.cursorBlinking": "smooth",
+    "python.defaultInterpreterPath": "${workspaceFolder}/.venv/Scripts/python.exe",
+    "dbt.dbtPythonPathOverride": "${workspaceFolder}/.venv/Scripts/python.exe",
+    "dbt.perspectiveTheme": "Pro Dark",
+    "dbt.enableNewLineagePanel": true
+}
